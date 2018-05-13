@@ -40,3 +40,4 @@ Example
 ### Currently changes proxy for:
 * npm
 * git
+* yarn
